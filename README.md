@@ -46,8 +46,8 @@ Este projeto consiste na modelagem de um sistema orientado a objetos voltado à 
 ### **Professor**  
 - Login  
 - Área do professor  
-  - Gerenciamento de notas e faltas  
-  - Gerenciamento de atividades  
+  - Lançamento de notas e faltas  
+  - Lançamento de atividades  
 
 ### **Fornecedor**  
 - Login  
@@ -98,4 +98,13 @@ Este projeto consiste na modelagem de um sistema orientado a objetos voltado à 
 
 #### **Área do Professor**  
 ![Área do Professor](/img%20prototipo/Tela%20principal%20Professor.png)  
+
+#### **Atribuição de notas**  
+![Atribuição de notas](/img%20prototipo/Tela%20de%20atribuição%20de%20notas%20(professor).png)  
+
+#### **Presença e faltas**  
+![Presença e faltas](/img%20prototipo/Tela%20de%20presença%20e%20faltas%20(professor).png)  
+
+#### **Lançamentos de atividades**  
+![Lançamento de atividades](/img%20prototipo/Tela%20de%20lançamento%20de%20atividades%20(professor).png)  
 
