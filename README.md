@@ -1,6 +1,6 @@
 # **Projeto Integrador III**
 
-Este projeto consiste na modelagem de um sistema orientado a objetos voltado à gestão de dados de uma universidade, incluindo a prototipação de suas interfaces.
+Este projeto consiste na modelagem de um sistema orientado a objetos voltado à gestão de dados de uma Universidade, incluindo a prototipação de suas interfaces.
 
 ---
 
