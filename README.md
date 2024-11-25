@@ -10,7 +10,7 @@ Este projeto consiste na modelagem de um sistema orientado a objetos voltado à 
 - **Caroline Costa Saldanha**  
 - **Mauro Antonio Adamoli Junior**  
 - **Ruan Souza Paim**  
-- **Victor Archimedes de Oliveira Lé**
+- **Victor Archimedes de Oliveira Le**
 
 ---
 
