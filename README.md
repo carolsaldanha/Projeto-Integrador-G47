@@ -78,11 +78,8 @@ Este projeto consiste na modelagem de um sistema orientado a objetos voltado à 
 #### **Cadastro de Funcionário**  
 ![Cadastro de Funcionário](/img%20prototipo/Tela%20de%20Cadastro%20Funcionario.png)  
 
-#### **Notas e Faltas do Aluno**  
-![Notas e Faltas](img%20prototipo/Tela%20de%20Notas%20e%20Faltas.png)  
-
 #### **Login do Aluno**  
-![Login do Aluno](img%20prototipo/Tela%20login%20Aluno.png)  
+![Login do Aluno](img%20prototipo/Tela%20login%20Aluno.png)   
 
 #### **Login de Funcionário e Fornecedor**  
 ![Login Funcionário e Fornecedor](/img%20prototipo/Tela%20login%20Funcionario%20e%20Fornecedor.png)  
@@ -93,8 +90,14 @@ Este projeto consiste na modelagem de um sistema orientado a objetos voltado à 
 #### **Área do Aluno**  
 ![Área do Aluno](/img%20prototipo/Tela%20principal%20Aluno.png)  
 
+#### **Notas e Faltas do Aluno**  
+![Notas e Faltas](img%20prototipo/Tela%20de%20Notas%20e%20Faltas.png) 
+
 #### **Área do Fornecedor**  
 ![Área do Fornecedor](/img%20prototipo/Tela%20principal%20Fornecedor.png)  
+
+#### **Consulta de pedidos**  
+![Consulta de pedidos](/img%20prototipo/Tela%20de%20consulta%20de%20pedidos%20(fornecedor).png)  
 
 #### **Área do Professor**  
 ![Área do Professor](/img%20prototipo/Tela%20principal%20Professor.png)  
