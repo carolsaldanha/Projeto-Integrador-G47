@@ -91,7 +91,16 @@ Este projeto consiste na modelagem de um sistema orientado a objetos voltado à 
 ![Área do Aluno](/img%20prototipo/Tela%20principal%20Aluno.png)  
 
 #### **Notas e Faltas do Aluno**  
-![Notas e Faltas](img%20prototipo/Tela%20de%20Notas%20e%20Faltas.png) 
+![Notas e Faltas](/img%20prototipo/Tela%20de%20Notas%20e%20Faltas.png) 
+
+#### **Tela de atividades aluno: aulas gravadas**  
+![Tela de atividades](/img%20prototipo/Tela%20atividades%20do%20Aluno%20-%20Aulas%20gravadas.png) 
+
+#### **Tela de atividades aluno: entregas de atividades**  
+![Tela de atividades](/img%20prototipo/Tela%20atividades%20do%20Aluno%20-%20Entrega%20de%20trabalhos.png) 
+
+#### **Tela de atividades aluno: material de estudo**  
+![Tela de atividades](/img%20prototipo/Tela%20Atividade%20do%20Aluno%20-%20Material%20de%20estudo.png) 
 
 #### **Área do Fornecedor**  
 ![Área do Fornecedor](/img%20prototipo/Tela%20principal%20Fornecedor.png)  
